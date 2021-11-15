@@ -7,6 +7,9 @@ tomato
 apple
 orange
 
+pizza bread
+ketchup
+
 Thank you:)
 
 final copy
