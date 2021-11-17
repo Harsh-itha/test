@@ -1,4 +1,4 @@
-describe('My test Suite',()=>{
+describe('My facebook test Suite',()=>{
     it('visit facebook',()=>{
         cy.visit("https://www.facebook.com/");
         let email="harshitha.p@quovantis.com";
